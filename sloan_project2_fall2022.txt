@@ -1,4 +1,3 @@
-
 def Header(param1):
     
     intro = f"""\n Good Day and Welcome to Sebastian Sloan's project 2!! You are currently \n
